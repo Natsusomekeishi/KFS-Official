@@ -41,7 +41,7 @@ Nav:
 MainFirst:
     name: KFS服务器
     description: 一个和谐而稳定的MCBE服务器~ 
-    pic_url: /img/bg.jpg
+    pic_url: /images/main.jpg
     goto_ulr: "https://www.mckfs.com"
 
 Gallery :
