@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: KFS服务器
+subtitle: '一个和谐而稳定的MCBE服务器~'
 description:
 keywords:
-author: John Doe
-language:
-timezone:
+author: KFS_Official
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
