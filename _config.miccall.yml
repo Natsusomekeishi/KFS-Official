@@ -6,11 +6,11 @@
 head:
     favicon: "/img/favicon.ico"
     keywords: miccall
-#    backgroundpic : "img/bg.jpg"
+    backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
+    name: KFS服务器
+    slogan: "一个和谐而稳定的MCBE服务器~"
     HeadButton: MICCALL
 
 Nav:
