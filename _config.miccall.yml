@@ -39,10 +39,10 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games   
-    pic_url: /images/me.jpg
-    goto_ulr: ""
+    name: KFS服务器
+    description: 一个和谐而稳定的MCBE服务器~ 
+    pic_url: /img/bg.jpg
+    goto_ulr: "https://www.mckfs.com"
 
 Gallery :
     title: Mr.metro 
