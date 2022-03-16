@@ -11,7 +11,7 @@ head:
 Intro:
     name: KFS服务器
     slogan: "一个和谐而稳定的MCBE服务器~"
-    HeadButton: MICCALL
+    HeadButton: KFS
 
 Nav:
     Home_name: 主页
