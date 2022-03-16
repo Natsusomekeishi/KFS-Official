@@ -6,7 +6,7 @@
 head:
     favicon: "/img/favicon.ico"
     keywords: miccall
-    backgroundpic : "img/bg.jpg"
+#    backgroundpic : "img/bg.jpg"
 
 Intro:
     name: MICCALL
