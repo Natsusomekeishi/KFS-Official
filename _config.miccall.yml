@@ -27,6 +27,10 @@ Nav:
         500px: http://500px.com
         
     pages:
+        #简历: 
+            #link: "/about/"
+        #团队 :
+            #link: "/group/"
         🌸柚服: 
             link: "/about/"
         ❄️雪国 :
