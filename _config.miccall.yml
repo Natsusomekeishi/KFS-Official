@@ -31,16 +31,16 @@ Nav:
             #link: "/about/"
         #团队 :
             #link: "/group/"
-        🌸柚服: 
-            link: "/about/"
-        ❄️雪国 :
-            link: "/group/"
         #图库 :
         #    link: "/gallery/"
         #标签:
         #    link: "/tag/"
         #自定义标签名
         #   link：“路径”
+        🌸柚服: 
+            link: "/about/"
+        ❄️雪国 :
+            link: "/group/"
 
 MainFirst:
     name: KFS服务器
