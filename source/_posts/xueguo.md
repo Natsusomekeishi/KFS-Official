@@ -1,5 +1,4 @@
 ---
-title: 'Test2'
+title: 'xueguo'
 date: '2020/7/23 12:00:00'
-hidden: true
 ---

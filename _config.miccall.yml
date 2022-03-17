@@ -38,9 +38,9 @@ Nav:
         #自定义标签名
         #   link：“路径”
         🌸柚服: 
-            link: "/about/"
+            link: "/youfu/"
         ❄️雪国 :
-            link: "/group/"
+            link: "/xueguo/"
 
 MainFirst:
     name: KFS服务器
