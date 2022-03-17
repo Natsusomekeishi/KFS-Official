@@ -14,7 +14,7 @@ Intro:
     HeadButton: KFS
 
 Nav:
-    Home_name: 主页
+    Home_name: 首页
     is_use_categories : false
     categories_name: 分类
     is_use_archives : false
