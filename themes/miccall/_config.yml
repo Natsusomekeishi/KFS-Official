@@ -23,8 +23,7 @@ Nav:
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
+        bilibili: https://space.bilibili.com/23785358/
         
     pages:
         #简历: 
