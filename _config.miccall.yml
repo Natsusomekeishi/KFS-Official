@@ -10,7 +10,7 @@ head:
 
 Intro:
     name: KFS服务器
-    slogan: "一个和谐而稳定的MCBE服务器~"
+    slogan: "立志打造和谐而稳定的MC服务器宇宙~"
     HeadButton: KFS
 
 Nav:
@@ -43,7 +43,7 @@ Nav:
 
 MainFirst:
     name: KFS服务器
-    description: 一个和谐而稳定的MCBE服务器~ 
+    description: 旗下拥有基岩版纯生存服务器和Java版模组服~
     pic_url: /images/main.jpg
     goto_ulr: "https://www.mckfs.com"
 
