@@ -500,13 +500,13 @@
   dependencies:
     "hexo-pagination" "1.0.0"
 
-"hexo-generator-index@^2.0.0":
-  "integrity" "sha512-q/29Vj9BZs0dwBcF+s9IT8ymS4aYZsDwBEYDnh96C8tsX+KPY5v6TzCdttz58BchifaJpP/l9mi6u9rZuYqA0g=="
-  "resolved" "https://registry.npmjs.org/hexo-generator-index/-/hexo-generator-index-2.0.0.tgz"
-  "version" "2.0.0"
+"hexo-generator-index2@^0.2.0":
+  "integrity" "sha1-CqRr9a/xJesjb3Fo9m+lnIyowyY="
+  "resolved" "https://registry.npmjs.org/hexo-generator-index2/-/hexo-generator-index2-0.2.0.tgz"
+  "version" "0.2.0"
   dependencies:
-    "hexo-pagination" "1.0.0"
-    "timsort" "^0.3.0"
+    "hexo-pagination" "0.0.2"
+    "object-assign" "^4.0.1"
 
 "hexo-generator-tag@^1.0.0":
   "integrity" "sha512-JDoB2T1EncRlyGSjuAhkGxRfKkN8tq0i8tFlk9I4q2L6iYxPaUnFenhji0oxufTADC16/IchuPjmMk//dt8Msg=="
@@ -535,6 +535,13 @@
   "version" "2.0.0"
   dependencies:
     "chalk" "^4.0.0"
+
+"hexo-pagination@0.0.2":
+  "integrity" "sha1-jPRwx9sN5bGKOSanbesZQBXffys="
+  "resolved" "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-0.0.2.tgz"
+  "version" "0.0.2"
+  dependencies:
+    "utils-merge" "^1.0.0"
 
 "hexo-pagination@1.0.0":
   "integrity" "sha512-miEVFgxchPr2qNWxw0JWpJ9R/Yaf7HjHBZVjvCCcqfbsLyYtCvIfJDxcEwz1sDOC/fLzYPqNnhUI73uNxBHRSA=="
@@ -879,6 +886,11 @@
     "asap" "^2.0.3"
     "commander" "^5.1.0"
 
+"object-assign@^4.0.1":
+  "integrity" "sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM="
+  "resolved" "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz"
+  "version" "4.1.1"
+
 "on-finished@~2.3.0":
   "integrity" "sha1-IPEzZIGwg811M3mSoWlxqi2QaUc="
   "resolved" "https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz"
@@ -1172,11 +1184,6 @@
   "resolved" "https://registry.npmjs.org/tildify/-/tildify-2.0.0.tgz"
   "version" "2.0.0"
 
-"timsort@^0.3.0":
-  "integrity" "sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q="
-  "resolved" "https://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz"
-  "version" "0.3.0"
-
 "tiny-emitter@^2.0.0":
   "integrity" "sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q=="
   "resolved" "https://registry.npmjs.org/tiny-emitter/-/tiny-emitter-2.1.0.tgz"
@@ -1214,7 +1221,7 @@
   "resolved" "https://registry.npmjs.org/urix/-/urix-0.1.0.tgz"
   "version" "0.1.0"
 
-"utils-merge@1.0.1":
+"utils-merge@^1.0.0", "utils-merge@1.0.1":
   "integrity" "sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM="
   "resolved" "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz"
   "version" "1.0.1"
