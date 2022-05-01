@@ -10,6 +10,8 @@ thumbnail: '/img/youfu.jpg'
 
 # 由于服规调整问题，该服务器已暂停入服
 
+可加入同类型的MC基岩服 > [点击了解 > 日梁雪国服](https://www.mckfs.com/20210812/)
+
 # 服务器官网
 
 [点击进入 > be.mckfs.com](https://be.mckfs.com)
