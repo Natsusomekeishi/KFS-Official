@@ -1,16 +1,6 @@
 ---
 title: '✉️服主信箱'
 date: '2020/7/23 12:00:00'
-thumbnail: '/img/ying.jpg'
 hidden: true
 ---
->如果你想了解我们旗下的基岩版纯生存服务器，可以 [点此跳转 > 日梁雪国服](https://www.mckfs.com/20210812/)
-# 服务器介绍
-
-樱之海服，建立于2022年5月1日，为KFS服务器建立的第三个服务器，也是投入最高的服务器，为Java版模组生存服务器。
-
-# 内测中
-
-加入群聊【993260901】，看置顶群公告加群即可。
-
-相关通知将在群公告中展示。
+<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=rgdbeid&width=760&source=iframe'></script>
