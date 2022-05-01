@@ -9,3 +9,7 @@ thumbnail: '/img/youfu.jpg'
 目前服务器版本是1.17.11，由KFS原总服主作为执行服主，不设常务服主。
 
 # 由于服规调整问题，该服务器已暂停入服
+
+# 服务器官网
+
+[点击进入 > be.mckfs.com](https://be.mckfs.com)
