@@ -13,3 +13,7 @@ thumbnail: '/img/ying.jpg'
 加入群聊【993260901】，看置顶群公告加群即可。
 
 相关通知将在群公告中展示。
+
+# 服务器官网
+
+[点击进入 > ying.mckfs.com](https://ying.mckfs.com)
