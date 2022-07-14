@@ -1,7 +1,7 @@
 ---
-title: '☁️樱之海服'
+title: '☁️云星岛服'
 date: '2022/5/1 12:00:00'
-thumbnail: '/img/ying.jpg'
+thumbnail: '/img/java.jpg'
 ---
 >如果你想了解我们旗下的基岩版纯生存服务器，可以 [点此跳转 > 日梁雪国服](https://www.mckfs.com/20210812/)
 # 服务器介绍
@@ -16,4 +16,4 @@ thumbnail: '/img/ying.jpg'
 
 # 服务器官网
 
-[点击进入 > ying.mckfs.com](https://ying.mckfs.com)
+[点击进入 > je.mckfs.com](https://je.mckfs.com)
